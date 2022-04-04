@@ -2,7 +2,7 @@
 About Me :
 <br/> <br/>
 <a href="https://github.com/MR-Amoori">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-Amoori&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-Amoori&show_icons=true&count_private=true&include_all_commits=true&theme=onedark" /></a>
 <br/>
 <br/>
 Language Programming:
