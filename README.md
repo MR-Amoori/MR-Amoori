@@ -8,7 +8,7 @@ About Me :
 Language Programming:
 <br/> <br/>
 <a href="https://github.com/MR-Amoori">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Amoori&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Amoori&theme=onedark" />
 </a>
 <!--
 **MR-Amoori/MR-Amoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
