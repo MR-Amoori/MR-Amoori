@@ -3,7 +3,7 @@
 ![code](https://user-images.githubusercontent.com/75223567/136923228-fee164da-c083-4d60-851a-1f2a4fb80c13.gif)
 
 # 💫About Me :
-Mohamad Reza Amoori .Net Developel (C#).
+Mohamad Reza Amoori .Net Developer (C#).
 <br/> 
 <br/>
 
