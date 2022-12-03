@@ -4,12 +4,18 @@
 
 # 💫About Me :
 I'm Mohammad Reza Amoori Full-Stack Developer (C# .NET)
+<br/>
+[My Website :D](https://mramoori.ir)
 <br/> 
+<br/>
+
+## 🦾Skills :
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,docker,wordpress,js,html,css,tailwind,bootstrap,git,github,gitlab,ps,regex&perline=7)](https://github.com/MR-Amoori)
 <br/>
 
 ## 🌐Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr__amoori) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadreza-amoori/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mr__amoori) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mohammadreza-amoori/)
 <br/>
 
 # 💻Tech Stack
